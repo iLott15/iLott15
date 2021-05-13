@@ -20,8 +20,8 @@ I really like to solve problems and learn from them. In addition to being ready 
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLott15&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=iLott15&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
