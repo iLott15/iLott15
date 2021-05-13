@@ -1,3 +1,5 @@
+![4](https://user-images.githubusercontent.com/31543087/118154540-8ed6e080-b3ed-11eb-8a91-ccb11d3f4ed0.png)
+
 # Hi!
 
 My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying front-end development since 2021. 👩🏻‍💻
