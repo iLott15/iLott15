@@ -16,6 +16,17 @@ I really like to solve problems and learn from them. In addition to being ready 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/ilott15/)](https://www.facebook.com/ilott15/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ilott__/)](https://www.instagram.com/ilott__/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=[https://twitter.com/_iLott](https://twitter.com/_iLott))](https://twitter.com/_iLott)
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ivan-lott-854497211/](https://www.linkedin.com/in/ivan-lott-854497211/))
 
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+
 #### "Art is manipulation, use your imagination." - Bono.
 
 - I always believed that the world without imagination, would be a sadder world.
