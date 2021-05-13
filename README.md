@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi!
 
-<!--
-**iLott15/iLott15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying front-end development since 2021. 👩🏻‍💻
 
-Here are some ideas to get you started:
+I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Creating new worlds with imagination.
+
+- 🚩From Belo Horizonte/MG, living in Aracaju/SE
+- 💻Front-end development student
+
+## Contact me
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/ilott15/)](https://www.facebook.com/ilott15/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ilott__/)](https://www.instagram.com/ilott__/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=[https://twitter.com/_iLott](https://twitter.com/_iLott))](https://twitter.com/_iLott)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ivan-lott-854497211/](https://www.linkedin.com/in/ivan-lott-854497211/))
+
+#### "Art is manipulation, use your imagination." - Bono.
+
+- I always believed that the world without imagination, would be a sadder world.
+Technology and music prove to us that what we most have to have is imagination. So, imagine!
