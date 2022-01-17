@@ -2,7 +2,7 @@
 
 # Hi!
 
-My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying front-end development since 2021. 👩🏻‍💻
+My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying systems development since 2021. 👩🏻‍💻
 
 I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.
 
