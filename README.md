@@ -30,7 +30,7 @@
     <a href="https://www.facebook.com/ilott15" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
         </td>
         <td>
-            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px"
+            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="120px"
         </td>
     </tr>
 </table>
