@@ -1,15 +1,25 @@
-<h1> Welcome to my Github! 
-    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="40px" margin-left="50px">
+<h1> Welcome to my Github! </br> 
+    <h4>
+        My name is Ivan Lott, i'm from Brazil.
+        <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="40px" margin-left="50px">
+    </h4>
+    
 </h1>
 
 <table>
 
 <tr>
     <td>
-        My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying systems development since 2021. 👩🏻‍💻
+        <p>
+            I'm a computer networking student, and I have been studying systems development since 2021.</br>
+            I'm studying PHP, JavaScript, JQuery, HTML, CSS to work on the systems created for SEMED, where I currently work.
+        </p>
     </td>
     <td>
-        I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.
+        <p>
+            I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.</br>
+            I intend to become a full stack developer so that I can meet all the needs where I work.
+        </p>
     </td>
     
 </tr>
