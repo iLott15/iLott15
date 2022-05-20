@@ -1,22 +1,39 @@
-![2](https://user-images.githubusercontent.com/31543087/118155450-a5316c00-b3ee-11eb-85b5-744b239a1114.png)
+<h1> Welcome to my Github! 
+    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="40px" margin-left="50px">
+</h1>
 
-# Hi!
+<table>
 
-My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying systems development since 2021. 👩🏻‍💻
+<tr>
+    <td>
+        My name is Ivan Lott, i'm from Brazil! I'm a computer networking student, and I have been studying systems development since 2021. 👩🏻‍💻
+    </td>
+    <td>
+        I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.
+    </td>
+    
+</tr>
+</table>
 
-I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.
-
-#### Creating new worlds with imagination.
-
-- 🚩From Belo Horizonte/MG, living in Aracaju/SE
-- 💻Front-end development student
-
-## Contact me
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/ilott15/)](https://www.facebook.com/ilott15/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ilott__/)](https://www.instagram.com/ilott__/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=[https://twitter.com/_iLott](https://twitter.com/_iLott))](https://twitter.com/_iLott)
-
-
-
+<h3><b>"Creating new worlds with imagination."</b><h3>
+<table>
+    <tr>
+        <td>
+            <h3>About Me!</h3>
+            <p>🚩 From Belo Horizonte/MG, living in Aracaju/SE</p>
+            <p>💻 Front-end development student</p>
+        </td>
+        <td>
+            <h3>Contact me!</h3>
+            <a href="https://www.instagram.com/ilott__/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a><a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></br>
+            <a href="https://twitter.com/_iLott" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/ilott15" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+        </td>
+        <td>
+            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px"
+        </td>
+    </tr>
+</table>
 <center>
 <table>
     <tr>
@@ -27,7 +44,7 @@ I really like to solve problems and learn from them. In addition to being ready 
 </center>  
 
 
-#### "Art is manipulation, use your imagination." - Bono.
+<h3> "Art is manipulation, use your imagination." - Bono.</h3>
 
-- I always believed that the world without imagination, would be a sadder world.
-Technology and music prove to us that what we most have to have is imagination. So, imagine!
+<p> "I always believed that the world without imagination, would be a sadder world.
+Technology and music prove to us that what we most have to have is imagination. So, imagine!" </p>
