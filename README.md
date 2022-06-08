@@ -1,6 +1,6 @@
 <h1> Welcome to my Github! </br> 
     <h4>
-        My name is Ivan Lott, i'm from Brazil.
+        My name is Ivan Lott, i'm from Brazil.😁
     </h4>
     
 </h1>
