@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1> Welcome to my Github! </br> 
     <h4>
         My name is Ivan Lott, i'm from Brazil.😁
@@ -11,7 +12,16 @@
     <td width="50%" align="center">
         <p>
             I'm a computer networking student, and I have been studying systems development since 2021.</br>
-            I'm studying PHP, JavaScript, JQuery, HTML, CSS to work on the systems created for SEMED, where I currently work.
+            I'm studying 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+            to work on the systems created for SEMED, where I currently work.
         </p>
     </td>
     <td width="50%" align="center">
@@ -24,7 +34,9 @@
 </tr>
 </table>
 
-<h3><b>"Creating new worlds with imagination."</b><h3>
+<h3>
+    <b>"Creating new worlds with imagination."</b>
+<h3>
 <table>
     <tr>
         <td width="40%" align="center">
@@ -34,14 +46,14 @@
         </td>
         <td width="40%" align="center">
             <h3>Contact me!</h3>
-            <a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="_blank">
+            <a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="#">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
             </a>
-            <a href="https://www.instagram.com/ilott__/" target="_blank">
+            <a href="https://www.instagram.com/ilott__/" target="#">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank">
             </a>
             </br>
-            <a href="https://gitlab.com/iLott" target="_blank">
+            <a href="https://gitlab.com/iLott" target="#">
                 <img src="https://img.shields.io/badge/gitlab-FFFF00?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
             </a>
         </td>
