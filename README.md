@@ -53,6 +53,8 @@
         </td>
     </tr>
 </table>
+![Snake animation](https://github.com/iLott15/iLott15   /blob/output/github-contribution-grid-snake.svg)
+
 
 
 <h3> "Art is manipulation, use your imagination." - Bono.</h3>
