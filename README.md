@@ -53,7 +53,7 @@
         </td>
     </tr>
 </table>
-![Snake animation](https://github.com/iLott15/iLott15   /blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iLott15/iLott15/blob/output/github-contribution-grid-snake.svg)
 
 
 
