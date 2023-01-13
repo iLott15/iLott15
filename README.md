@@ -45,6 +45,9 @@
             <p>🚩 From Belo Horizonte/MG, living in Aracaju/SE</p>
             <p>💻 Full-stack development student</p>
         </td>
+        <td width="20%" align="center">
+            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80%">
+        </td>
         <td width="40%" align="center">
             <h3>Contact me!</h3>
             <a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="#">
@@ -57,9 +60,6 @@
             <a href="https://gitlab.com/iLott" target="#">
                 <img src="https://img.shields.io/badge/gitlab-FFFF00?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
             </a>
-        </td>
-        <td width="20%" align="center">
-            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80%"
         </td>
     </tr>
 </table>
