@@ -30,7 +30,7 @@
         <td width="40%" align="center">
             <h3>About Me!</h3>
             <p>🚩 From Belo Horizonte/MG, living in Aracaju/SE</p>
-            <p>💻 Front-end development student</p>
+            <p>💻 Full-stack development student</p>
         </td>
         <td width="40%" align="center">
             <h3>Contact me!</h3>
