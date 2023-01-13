@@ -53,14 +53,6 @@
         </td>
     </tr>
 </table>
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLott15&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=iLott15&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
 
 
 <h3> "Art is manipulation, use your imagination." - Bono.</h3>
