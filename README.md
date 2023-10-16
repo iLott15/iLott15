@@ -14,15 +14,15 @@
             </br>
             I'm a computer networking student, and I have been studying systems development since 2021.</br>
             Currently working for SEMED/Aracaju.</br></br>
-            I'm developing systems with the following languages:</br></br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25" height="25"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25" height="25"/>
+            I'm developing systems with the following languages:</br></br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="35" height="35"/>
         </p>
     </td>
     <td width="50%" align="center">
@@ -38,27 +38,24 @@
 <h3>
     <b>"Creating new worlds with imagination."</b>
 <h3>
-<table>
+<table align="center">
     <tr>
         <td width="40%" align="center">
             <h3>About Me!</h3>
             <p>🚩 From Belo Horizonte/MG, living in Aracaju/SE</p>
-            <p>💻 Full-stack development student</p>
-        </td>
-        <td width="20%" align="center">
-            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80%">
+            <p>💻 Full stack systems developer, currently working for SergipeTec providing services to SEMED (Municipal Department of Education) of Aracaju/Sergipe.</p><br>
         </td>
         <td width="40%" align="center">
+            <p>We work directly with internet systems, where we use PHP a lot, in addition to mixing the use of JQuery and JavaScript in our systems.<br></p>
+            <p>In addition to all this, I frequently study JavaScript for personal improvement, and so that I can have a greater understanding of the most common languages ​​used in the IT market today.</p>
+        </td>
+        <td width="20%" align="center">
             <h3>Contact me!</h3>
             <a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="#">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-            </a>
+            </a><br>
             <a href="https://www.instagram.com/ilott__/" target="#">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank">
-            </a>
-            </br>
-            <a href="https://gitlab.com/iLott" target="#">
-                <img src="https://img.shields.io/badge/gitlab-FFFF00?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
             </a>
         </td>
     </tr>
