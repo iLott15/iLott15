@@ -19,7 +19,7 @@
     </td>
     <td width="50%" align="center">
         <p>
-            I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.</br>
+            I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.</br></br>
             I intend to become a full stack developer so that I can meet all the needs where I work.
         </p>
     </td>
