@@ -11,19 +11,26 @@
 <tr>
     <td width="50%" align="center">
         <p>
-            </br>
-            I'm a computer networking student, and I have been studying systems development since 2021.</br>
-            Currently working for SEMED/Aracaju.</br></br>
-            I'm developing systems with the following languages:</br></br><br>
+            <br>
+            I'm a computer networking student, and I've been working with web systems development since 2021.<br>
+            Currently working at SEMED/Aracaju, contributing to the development and maintenance of internal systems.<br><br>
+            I work primarily with the following technologies:<br><br>
+            • PHP (Vanilla and Laravel)<br>
+            • JavaScript (ES6+)<br>
+            • MySQL / MariaDB / SQL Server<br>
+            • Git & GitLab CI/CD<br>
+            • Docker<br>
+            • Select2, Toastify, OAuth 2.0<br>
         </p>
     </td>
     <td width="50%" align="center">
         <p>
-            I really like to solve problems and learn from them. In addition to being ready for changes, I am always looking for new challenges so that I can increase my knowledge.</br></br>
-            I intend to become a full stack developer so that I can meet all the needs where I work.
+            I enjoy solving problems and learning from each experience. I'm highly adaptable and always open to new challenges that help expand my technical and personal growth.<br><br>
+            I'm currently pursuing a postgraduate degree in Software Engineering, with the goal of becoming a full stack developer capable of designing, developing, and maintaining complete solutions end to end.
         </p>
     </td>
 </tr>
+
 <tr>
     <td colspan="2" align="center">
         <p>
