@@ -18,7 +18,6 @@
         </p>
     </td>
     <td width="30%" align="center">
-        <h3>Contact me!</h3>
         <a href="https://www.linkedin.com/in/ivan-lott-854497211/" target="#">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a><br>
